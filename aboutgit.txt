@@ -6,6 +6,8 @@ orgin이란 이름으로 원격저장소 주소 등록
 -> 다른 주소 받고 싶을때 변경 
 git push origin master
 master (컴퓨터 브랜치 이름) origin(원격저장소)에 올린다 
+
+
 git pull origin master (origin의 내용 받아옴)
 git clone <저장소 주소>
 내가 하고있는(클라이언트)에 아무고토 없을 때 
